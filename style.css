@@ -1,0 +1,36 @@
+body{
+  text-align:center;
+  background:url('https://i.ytimg.com/vi/1iebtzmkbWM/maxresdefault.jpg')center center fixed;
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+h1{
+  padding:50px;
+  font-family:cursive;
+  font-weight:bold;
+  color:#E52B50;
+}
+#search{
+  width:600px;
+  height:40px;
+  
+}
+.btn{
+  margin-top:20px;
+  width:150px;
+}
+.result{
+  font-family:fantacy;
+  font-size:18px; 
+  display: block;
+  margin: 10px;
+  text-align: center;
+  color:#060;
+  background-color: #FAF0BE;
+  border-radius:20px;
+
+}
+#link{
+  font-size:18px;
+  color:blue;
+}
